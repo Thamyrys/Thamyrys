@@ -1,0 +1,6 @@
+library(stats) #normality Gaussian or Poisson (over-dispersion)
+library(MASS) #negative binomial
+library(vegan) #decostand
+library(MuMIn) #models dredge
+library(ggplot2) #graphics
+
