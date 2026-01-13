@@ -9,7 +9,7 @@ A ciência consolidou em mim um pensamento analítico estruturado, rigor metodol
 ## 🛠️ Ferramentas & Tecnologias
 
 - **Linguagens:**  
-  - R (tidyverse, ggplot2, dplyr, tidyr)  
+  - R (tidyverse, ggplot2, dplyr, MASS, vegan, MuMIn, tidyr)  
   - SQL (consultas, filtros, joins, agregações)
 
 - **Análise & Estatística:**  
