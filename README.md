@@ -12,7 +12,7 @@ Sou **Bióloga**, **Doutora em Ecologia e Conservação da Biodiversidade**, com
 ## 🛠️ Ferramentas & Tecnologias
 
 - **Linguagens:**  
-  - R (tidyverse, ggplot2, dplyr, tidyr, lubridate)  
+  - R (tidyverse, ggplot2, dplyr, tidyr)  
   - SQL (consultas, filtros, joins, agregações)
 
 - **Análise & Estatística:**  
