@@ -1,4 +1,4 @@
-## Olá, sou Thamyrys Souza 👋
+## Olá, sou Thamyrys Souza!
 ## 🧠 Sobre mim
 
 Sou bióloga, doutora em Ecologia e Conservação da Biodiversidade, com mais de 10 anos de experiência trabalhando com análise de dados a partir de grandes conjuntos de dados ambientais.
